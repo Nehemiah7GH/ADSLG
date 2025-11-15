@@ -20,23 +20,32 @@ const AppContent = () => {
   const initializeApp = async () => {
     try {
       // Initialize database
-      await initDatabase();
+      const db = await initDatabase();
 
       // Check if hymns already exist
       const existingHymns = await getAllHymns();
 
-      // If no hymns exist, insert sample data
-      if (existingHymns.length === 0) {
-        console.log('Inserting sample hymns...');
+      // If we don't have all 169 hymns, reset and insert them all
+      if (existingHymns.length !== sampleHymns.length) {
+        console.log(`Found ${existingHymns.length} hymns, but we need ${sampleHymns.length}. Reinserting all hymns...`);
+
+        // Delete all existing hymns
+        await db.execAsync('DELETE FROM hymns');
+
+        // Insert all 169 hymns
+        console.log('Inserting all hymns...');
         for (const hymn of sampleHymns) {
           await insertHymn(hymn);
         }
-        console.log('Sample hymns inserted successfully');
+        console.log(`Successfully inserted all ${sampleHymns.length} hymns!`);
+      } else {
+        console.log(`All ${sampleHymns.length} hymns already loaded.`);
       }
 
       setIsReady(true);
     } catch (error) {
       console.error('Error initializing app:', error);
+      console.error('Full error details:', JSON.stringify(error, null, 2));
       setIsReady(true); // Still set ready to avoid infinite loading
     }
   };
