@@ -70,7 +70,7 @@ export const DEFAULT_SETTINGS = {
 
 export const AUTHOR_INFO = {
   name: 'Néhémie ACHI',
-  title: 'Étudiant Pasteur',
+  title: 'Stagiaire Etudiants',
   email: 'nehemiahvmc@gmail.com',
   telegram: 'https://t.me/NehemiahAchi',
   institution: 'Institut Théologique et Pastoral des Assemblées de Dieu de Côte d\'Ivoire',
