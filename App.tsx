@@ -5,12 +5,14 @@ import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { ThemeProvider, useTheme } from './src/contexts/ThemeContext';
 import { SettingsProvider } from './src/contexts/SettingsContext';
 import { AppNavigator } from './src/navigation/AppNavigator';
+import WelcomeScreen from './src/screens/WelcomeScreen';
 import { initDatabase } from './src/database/init';
 import { getAllHymns, insertHymn } from './src/database/hymns';
 import { sampleHymns } from './src/database/sampleData';
 
 const AppContent = () => {
   const [isReady, setIsReady] = useState(false);
+  const [showWelcome, setShowWelcome] = useState(true);
   const { colors, isDark } = useTheme();
 
   useEffect(() => {
@@ -55,6 +57,15 @@ const AppContent = () => {
       <View style={[styles.loading, { backgroundColor: colors.background }]}>
         <ActivityIndicator size="large" color={colors.primary} />
       </View>
+    );
+  }
+
+  if (showWelcome) {
+    return (
+      <>
+        <StatusBar style="light" />
+        <WelcomeScreen onEnter={() => setShowWelcome(false)} />
+      </>
     );
   }
 
