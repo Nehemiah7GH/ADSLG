@@ -34,7 +34,7 @@ const HymnDetailScreen: React.FC<Props> = ({ route, navigation }) => {
   const [showNoteModal, setShowNoteModal] = useState(false);
   const [newNote, setNewNote] = useState('');
   const scrollViewRef = useRef<ScrollView>(null);
-  const scrollIntervalRef = useRef<NodeJS.Timeout | null>(null);
+  const scrollIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
     loadHymn();
