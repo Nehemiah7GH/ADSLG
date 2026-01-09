@@ -11,7 +11,6 @@ type NavigationProp = StackNavigationProp<RootStackParamList>;
 
 const themeIcons: Record<string, keyof typeof Ionicons.glyphMap> = {
   'Louange': 'musical-notes',
-  'Adoration': 'heart',
   'Prière': 'hand-right',
   'Consécration': 'flame',
   'Communion': 'people',
@@ -20,7 +19,6 @@ const themeIcons: Record<string, keyof typeof Ionicons.glyphMap> = {
   'Repentance': 'sad',
   'Espérance': 'star',
   'Foi': 'shield',
-  'Noël': 'snow',
   'Pâques': 'sunny',
   'Pentecôte': 'flame',
   'Divers': 'ellipsis-horizontal',

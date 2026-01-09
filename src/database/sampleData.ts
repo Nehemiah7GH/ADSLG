@@ -51,7 +51,7 @@ Lui qui fit le ciel et la terre !`
   {
     number: 5,
     title: "Car Tu Es Dieu",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Car tu es Dieu au-dessus de la terre
 Tu établis ton trône dans les cieux
 Car tu es Dieu au-dessus de la terre
@@ -109,7 +109,7 @@ Car Il est puissant !`,
   {
     number: 10,
     title: "Grandes Et Merveilleuses",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Grandes et merveilleuses sont toutes
 Tes œuvres O Seigneur, notre Dieu
 Tout-Puissant !
@@ -128,7 +128,7 @@ Si tu crois à Sa Parole, Dieu est là.`
   {
     number: 12,
     title: "Digne Est L'Agneau",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Digne est l'Agneau de recevoir
 Force et Richesse, louange, honneur,
 Sagesse, gloire, puissance et autorité
@@ -224,7 +224,7 @@ O! Dieu crée en moi un cœur pur.`
   {
     number: 21,
     title: "Prosternez-Vous",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Prosternez-vous devant votre Roi
 Adorez-le de tout votre cœur
 Faites monter vers Sa Majesté
@@ -268,7 +268,7 @@ sur cette terre et là-haut dans les cieux !`
   {
     number: 25,
     title: "Vers Toi Seigneur",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Vers Toi, Seigneur, j'élève ma voix
 Pour T'adorer mon Sauveur, mon Roi
 Reçois Seigneur comme un doux parfum
@@ -277,7 +277,7 @@ L'amour et le chant de mon cœur reconnaissant.`
   {
     number: 26,
     title: "Oui Tu Es Digne",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Oui Tu es digne de régner dans notre cœur,
 Tu es le Roi de gloire, alléluia !
 Jésus, Tu es le Maitre en moi, alléluia !
@@ -465,7 +465,7 @@ C'est si bon de s'appuyer sur le Seigneur`
   {
     number: 41,
     title: "Jésus, Qui Est Comparable",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Jésus, qui est comparable à Toi?
 Jésus, Tu es tout pour moi
 Jésus, j'ai besoin de Toi
@@ -603,7 +603,7 @@ car Toi seul, Toi seul es digne de régner, REGNER !`
   {
     number: 55,
     title: "Jésus Nous T'Adorons",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Jésus, nous T'adorons
 Jésus, nous T'adorons
 Jésus, Tu es Souverain!
@@ -848,7 +848,7 @@ La foi qui me rassure, La paix de Dieu !`
   {
     number: 75,
     title: "J'Aime Le Seigneur",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `J'aime le Seigneur de tout mon cœur
 J'aime le Seigneur qui est mort pour moi
 et je veux Lui obéir toujours.`
@@ -880,7 +880,7 @@ Alléluia!`
   {
     number: 78,
     title: "Jésus-Christ Est Seigneur",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Jésus-Christ est Seigneur,
 Il est sorti du tombeau, Il est Seigneur !
 Tout genou fléchira, Toute langue confessera
@@ -972,7 +972,7 @@ je ne crains plus rien, mon Dieu est vivant !`
   {
     number: 86,
     title: "Mon Oreille",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Mon oreille avait entendu parler de Toi
 Mais maintenant mon œil Te voit
 Maintenant mon œil Te voit
@@ -1075,7 +1075,7 @@ Ce Dieu de miracle est Le même aujourd'hui !`
   {
     number: 95,
     title: "Quand Je Vois Le Ciel",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Quand je vois le ciel, œuvre de Tes Doigts
 La lune et les étoiles que Tu créas
 Qu'est-ce que l'homme, ô Eternel
@@ -1125,7 +1125,7 @@ Tu es notre lumière en Jésus ressuscité`
   {
     number: 99,
     title: "Jésus, Mon Bien-Aimé",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Jésus mon bien-aimé, tout mon trésor,
 Tu m'as donné Ton amour et Ta vie!
 De tout mon cœur, je T'aime et je T'adore
@@ -1176,7 +1176,7 @@ Et sa victoire m'anime de l'Esprit !`
   {
     number: 104,
     title: "J'Entre Dans Tes",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `J'entre dans Tes portes, J'entre dans Tes parvis.
 Avec des louanges, devant Toi me voici
 Je reconnais Ta royauté, El Shadaï, Dieu puissant !
@@ -1253,7 +1253,7 @@ Pour que je vive à Ta gloire, Et que je marche en vainqueur`
   {
     number: 112,
     title: "Précieux Jésus",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Précieux Jésus, Précieux Jésus
 Tout ému devant Ta croix, précieux Jésus,
 j'élève mes mains et mon âme à la louange de Ton Nom,
@@ -1271,7 +1271,7 @@ Alléluia, Alléluia`
   {
     number: 113,
     title: "Adorons Dieu Ensemble",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Adorons Dieu ensemble, adorons
 Adorons Dieu ensemble, adorons
 Fidèle dans toutes Ses voies,
@@ -1340,7 +1340,7 @@ oui! Ce même Jésus reviendra !`
   {
     number: 119,
     title: "C'Est Vers Toi",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `C'est vers Toi que je me tourne, je veux marcher dans Tes voies
 j'élève les mains pour Te rencontrer,
 Mon cœur désire Te chanter pour bénir et célébrer Ton Saint Nom
@@ -1385,7 +1385,7 @@ J'ai confiance en mon Seigneur et Il tient ma main !`
   {
     number: 123,
     title: "Emmanuel",
-    theme: "Noël",
+    theme: "Louange",
     lyrics: `Emmanuel, Emmanuel,
 Il s'appelle Emmanuel
 Dieu se révèle parmi nous :
@@ -1394,7 +1394,7 @@ Il s'appelle Emmanuel`
   {
     number: 124,
     title: "Je Confesse",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Je confesse que Jésus est Seigneur
 Je confesse que Jésus est Seigneur
 Il est Tout-Puissant, Omnipotent
@@ -1472,7 +1472,7 @@ Prends ma vie, sers toi de moi, me voici.`
   {
     number: 131,
     title: "Viens Adorer",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Viens adorer, peuple racheté
 Toutes les nations, venez le louer
 Adorer Jésus, notre Rédempteur
@@ -1516,7 +1516,7 @@ Me voici, prêt à Te servir.`
   {
     number: 135,
     title: "Dieu Est Esprit",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Dieu est Esprit et il faut que ceux qui l'adorent
 l'adorent en Esprit et en vérité
 Dieu est Esprit et il faut que ceux qui l'adorent
@@ -1567,7 +1567,7 @@ Il est Le Libérateur, Il est Le Libérateur, Libérateur !`
   {
     number: 139,
     title: "Je T'Aime Ô Éternel",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Je t'aime ô Eternel, ma force et ma forteresse,
 Je t'aime, ô Eternel, Libérateur, mon Dieu,
 Mon Rocher, tu es mon bouclier!
@@ -1732,7 +1732,7 @@ J'abandonne à Tes pieds mes fardeaux.`
   {
     number: 157,
     title: "Il Est Exalté",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Il est exalté, le Roi est au-dessus des cieux, je veux Le louer
 Il est élevé, à jamais exalté et je loue Son Saint Nom.
 Il est Seigneur, sa vérité régnera,
@@ -1799,7 +1799,7 @@ Un parfum pour Toi, Seigneur, alléluia !`
   {
     number: 163,
     title: "Nous Venons Dans Ta",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `Nous venons dans Ta maison et nous nous assemblons
 pour t'adorer Jésus, T'adorer, Te louer, Seigneur !
 Tu nous donnes ta justice et Tu nous affranchis
@@ -1810,7 +1810,7 @@ pour T'adorer Jésus, T'adorer, Te louer, Seigneur !`
   {
     number: 164,
     title: "J'Aime L'Éternel",
-    theme: "Adoration",
+    theme: "Louange",
     lyrics: `J'aime l'Eternel car Il entend ma voix
 Il a penché vers moi Son oreille
 Et je L'exalterai toute ma vie

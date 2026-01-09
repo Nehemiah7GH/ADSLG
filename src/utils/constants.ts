@@ -27,7 +27,6 @@ export const COLORS = {
 
 export const THEMES = [
   'Louange',
-  'Adoration',
   'Prière',
   'Consécration',
   'Communion',
@@ -36,7 +35,6 @@ export const THEMES = [
   'Repentance',
   'Espérance',
   'Foi',
-  'Noël',
   'Pâques',
   'Pentecôte',
   'Divers',
